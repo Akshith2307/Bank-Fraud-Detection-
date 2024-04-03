@@ -35,8 +35,6 @@ Our analysis has revealed several insightful patterns that are indicative of fra
 ### Performance Metrics and Evaluation
 A critical component of our project is the evaluation of model performance, for which we have compiled comprehensive metrics. Below is a snapshot of these metrics, depicting the effectiveness of our Feedforward Neural Network and Random Forest models.
 
-![Feedforward Neural Network and Random Forest Performance Metrics](/path/to/BF-12-comparison.png)
-Images/BF-12-comparision.png
 https://github.com/Akshith2307/Bank-Fraud-Detection-/blob/c6d119374410c404a175ae199aeb59dbfb8f5f8f/Images/BF-12-comparision.png
 
 #### Feedforward Neural Network Metrics:
