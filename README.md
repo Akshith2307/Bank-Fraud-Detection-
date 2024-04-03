@@ -73,4 +73,4 @@ The following visualizations and documents provide further insights into the pro
 
 
 For a more detailed explanation of the project's design and results, including technical schematics, code snippets, and operational procedures, please refer to the extensive documentation and source code provided within this repository.
-We welcome contributions and suggestions to improve the project. Please follow the contribution guidelines laid out in `CONTRIBUTING.md`.
+We welcome contributions and suggestions to improve the project.
